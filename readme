@@ -1,0 +1,7 @@
+npm update
+npm start
+
+abrir em mangment de android e iniciar el emulador.
+
+presionar 'a' en en terminal luego de npm start.
+para probar en un telefono, descargar la app 'Expo go' y scanear el codigo QR.
